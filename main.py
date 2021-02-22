@@ -3,9 +3,8 @@ import requests
 import pprint
 import pandas as pd
 
-APIv3 = "18863b8a96c6dc619fbb00166fbd2d61"
-APIv4 = "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIxODg2M2I4YTk2YzZkYzYxOWZiYjAwMTY2ZmJkMmQ2MSIsInN1YiI6IjYwMzNkNzJmN2Q1ZjRiMDA" \
-        "0MTk4Yjg1YSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.OYG8p6QhqovqbZs3nKi6_aOBpE94UJRIT7VOVurHq8s"
+APIv3 = "" #api key
+APIv4 = "" #api key,bearer token
 
 # internet connection request
 # endpoint(url from where to grab data)
